@@ -115,7 +115,7 @@
         <div id="dvStart" style="display:none">
            <div align="center">HOW TO PLAY</div>
            <p>
-               A very very simple guess the image game. A pixelated image will be shown and as the time passes by the blurred/pixelated image will become more clear.
+               A very very very simple guess the image game. A pixelated image will be shown and as the time passes by the blurred/pixelated image will become more clear.
                Your objective is to guess the answer (or name) as quickly as possible. When you're ready click START to begin. Good Luck!
            </p>
             <input type="button" id="btnStart" value="Start" class="btn-warning" />
